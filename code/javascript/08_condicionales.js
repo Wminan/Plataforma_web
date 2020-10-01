@@ -2,7 +2,7 @@ var persona = {
     nombre: `Wilmer`,
     apellido: `Minan`,
     edad: 25,
-    universidad: `Universidad Politécnica Salesiana`,
+    universidad: `Universidad Politecnica Salesiana`,
     correoElectronico: `wminanp@est.ups.edu.ec`,
     ingeniero: true,
     master: false,
